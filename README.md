@@ -26,7 +26,7 @@ A real-time web application that displays Hong Kong Tropical Cyclone Warning Sig
 
 ## Live Demo
 
-[View Demo](your-demo-link-here)
+[View Demo](https://darkeung.github.io/HK-Typhoon-Warning-no8/)
 
 ## API Source
 
